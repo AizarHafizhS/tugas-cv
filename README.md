@@ -1,2 +1,2 @@
-# tugas-cv
-repo untuk simpan file tugas cv
+# Kumpulan Tugas Pattern Recognition
+repo untuk simpan file tugas Pattern Recognition
